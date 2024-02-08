@@ -1,0 +1,17 @@
+nav {
+    background-color: red;
+    display: flex;
+    box-shadow: 5px 10px black;
+    
+  }
+  div {
+    background-color: antiquewhite;
+    margin-top: 15%;
+    color: black;
+    display: flex;
+  }
+  .div2 {
+    display: flex;
+    margin-top: 35px;
+    padding: 25px;
+  }
